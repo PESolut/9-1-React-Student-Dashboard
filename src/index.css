@@ -1,9 +1,9 @@
 nav {
     display: flex;
     justify-content: space-around;
-    background: #56B383;
+    background: #1c6e2c;
     padding: 1em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     font-family: sans-serif;
   }
   
@@ -15,4 +15,20 @@ nav {
   
   nav img {
     height: 50px;
+  }
+
+  .main h2 {
+    color:whitesmoke;
+    font-family: sans-serif;
+  }
+
+  .main p {
+    color:whitesmoke;
+    font-family: sans-serif;
+  }
+
+  .main {
+    background-color: #332f12 ;
+    padding: 1em;
+    min-height: 80vh;
   }
