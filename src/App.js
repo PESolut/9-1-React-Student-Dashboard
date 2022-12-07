@@ -1,9 +1,10 @@
+import Nav from "./common/Nav";
 
 function App() {
   return (
-    <nav>
-      <h1>Student Dashboard</h1>
-    </nav>
+    <>
+    <Nav/>
+    </>
   );
 }
 

@@ -2,10 +2,9 @@ import React from 'react';
 
 const Nav = () => {
     return (
-        <div className='Navigation'>
-            <h2>Student Dashboard</h2>
-            
-        </div>
+        <nav>
+            <h1>Student Dashboard</h1>
+        </nav>
     );
 };
 
